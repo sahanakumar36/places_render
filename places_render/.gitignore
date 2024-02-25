@@ -1,0 +1,8 @@
+.env
+_pycache__/
+*.py[cod]
+*.log
+*.pot
+*.pyc
+db.sqlite3
+set_key.sh
